@@ -1,0 +1,9 @@
+{
+  "projectId": "1nnhsa",
+  "chromeWebSecurity": false,
+  "baseURL" : "http://testautomationpractice.blogspot.com/",
+     "waitForAnimations": false,
+     "animationDistanceThreshold": 50,
+     "testFiles": "**/*.feature"
+ 
+}

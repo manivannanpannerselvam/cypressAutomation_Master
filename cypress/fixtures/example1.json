@@ -1,0 +1,10 @@
+{
+  "name": ".//button[@ng-class='btnClass1']",
+  "BankManageLogin": ".//button[text()='Bank Manager Login']",
+  "firstnames": "input[ng-model='fName']",
+  "lastnewnames": "input[ng-model='lName']",
+  "pincodes": "input[ng-model='postCd']",
+    "EmailId": "[id=Email]",
+    "email": "murugan@gmail.com",
+    "password": 123456
+}
